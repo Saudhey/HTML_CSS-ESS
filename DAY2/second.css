@@ -1,0 +1,20 @@
+.External {
+    color: yellow;
+    font-size: 20px;
+}
+
+.head3 {
+    color: blue;
+    text-align: center;
+}
+
+div{
+    background-color: grey;
+    padding: 10px 10px 10px 10px;
+   
+}
+
+body{
+    margin: 0px;
+    background-color: hotpink;
+}
